@@ -1,0 +1,7 @@
+server:
+  port: 9065
+spring:
+  application:
+    name: avmed
+  profiles:
+    active: ${PROFILE}

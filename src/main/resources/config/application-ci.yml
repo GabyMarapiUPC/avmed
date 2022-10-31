@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://gabyg:8pQyzi8pyzXCUqKs@cluster0.hfx9cbj.mongodb.net/avmed?retryWrites=true&w=majority
+
